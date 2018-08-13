@@ -1,7 +1,7 @@
-##问题背景
+## 问题背景
 Kaggle ：https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-问题描述：根据房屋的不同信息预测放假
+问题描述：根据房屋的不同信息预测房价
 
 数据源：
 
