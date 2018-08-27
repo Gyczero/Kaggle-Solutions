@@ -12,7 +12,7 @@ Kaggle ：https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 	特征数：79个特征
 
 
-## 预测模型
+## 目前优化情况
 
 分数评估指标：RSME
 
