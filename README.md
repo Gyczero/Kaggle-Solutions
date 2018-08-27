@@ -1,4 +1,4 @@
-# Kaggle-Solutions
+# Kaggle Solutions
 自己所做的Kaggle竞赛解决方案，目前包含：
 
 Kaggle 竞赛  | 目前得分  
